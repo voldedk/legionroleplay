@@ -1,0 +1,11 @@
+# Legion Roleplay - robots.txt
+# https://legionroleplay.dk
+
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://legionroleplay.dk/sitemap.xml
+
+# Disallow nothing - all pages are public
+
